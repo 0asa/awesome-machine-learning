@@ -234,7 +234,6 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [Touchstone](https://github.com/ptaoussanis/touchstone) - Clojure A/B testing library
 * [Clojush](https://github.com/lspector/Clojush) -  The Push programming language and the PushGP genetic programming system implemented in Clojure
-* [Infer](https://github.com/aria42/infer) - Inference and machine learning in clojure
 * [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends
 * [DL4CLJ](https://github.com/engagor/dl4clj/) - Clojure wrapper for Deeplearning4j
 * [Encog](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
@@ -280,7 +279,6 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 #### Natural Language Processing
 
 * [go-porterstemmer](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
-* [paicehusk](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
@@ -290,7 +288,6 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [gago](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
 * [Go Learn](https://github.com/sjwhitworth/golearn) - Machine Learning for Go
-* [go-pr](https://github.com/daviddengcn/go-pr) - Pattern recognition package in Go lang.
 * [go-ml](https://github.com/alonsovidales/go_ml) - Linear / Logistic regression, Neural Networks, Collaborative Filtering and Gaussian Multivariate Distribution
 * [bayesian](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [go-galib](https://github.com/thoj/go-galib) - Genetic Algorithms library written in Go / golang
@@ -426,9 +423,9 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [science.js](https://github.com/jasondavies/science.js/) - Scientific and statistical computing in JavaScript.
 * [Z3d](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
-* [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
-* [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
-* [ZingChart](https://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
+* [C3.js](http://c3js.org/) - customizable library based on D3.js for easy chart drawing.
+* [Datamaps](http://datamaps.github.io/) - Customizable SVG map/geo visualizations using D3.js.
+* [ZingChart](https://www.zingchart.com/) - library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer](https://github.com/npellet/visualizer) project.
 * [Learn JS Data](http://learnjsdata.com/)
 * [AnyChart](http://www.anychart.com/)
@@ -484,13 +481,11 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [DA](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis
 * [Regression](https://github.com/lindahua/Regression.jl) - Algorithms for regression analysis (e.g. linear regression and logistic regression)
 * [Local Regression](https://github.com/JuliaStats/Loess.jl) - Local regression, so smooooth!
-* [Naive Bayes](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia
 * [Mixed Models](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models
 * [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia
 * [Distance](https://github.com/JuliaStats/Distance.jl) - Julia module for Distance evaluation
 * [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia
-* [MCMC](https://github.com/doobwa/MCMC.jl) - MCMC tools for Julia
 * [Mamba](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia
 * [GLM](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia
 * [Online Learning](https://github.com/lendle/OnlineLearning.jl)
@@ -567,26 +562,20 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
   * [unsup](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
   * [manifold](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds
   * [svm](https://github.com/koraykv/torch-svm) - Torch-SVM library
-  * [lbfgs](https://github.com/clementfarabet/lbfgs) - FFI Wrapper for liblbfgs
   * [vowpalwabbit](https://github.com/clementfarabet/vowpal_wabbit) - An old vowpalwabbit interface to torch.
-  * [OpenGM](https://github.com/clementfarabet/lua---opengm) - OpenGM is a C++ library for graphical modeling, and inference. The Lua bindings provide a simple way of describing graphs, from Lua, and then optimizing them with OpenGM.
   * [sphagetti](https://github.com/MichaelMathieu/lua---spaghetti) - Spaghetti (sparse linear) module for torch7 by @MichaelMathieu
   * [LuaSHKit](https://github.com/ocallaco/LuaSHkit) - A lua wrapper around the Locality sensitive hashing library SHKit
-  * [kernel smoothing](https://github.com/rlowrance/kernel-smoothers) - KNN, kernel-weighted average, local linear regression smoothers
   * [cutorch](https://github.com/torch/cutorch) - Torch CUDA Implementation
   * [cunn](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation
   * [imgraph](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
   * [videograph](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
   * [saliency](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
-  * [stitch](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence
-  * [sfm](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package
   * [fex](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules.
   * [OverFeat](https://github.com/sermanet/OverFeat) - A state-of-the-art generic dense feature extractor
 * [Numeric Lua](http://numlua.luaforge.net/)
 * [Lunatic Python](http://labix.org/lunatic-python)
 * [SciLua](http://scilua.org/)
 * [Lua - Numerical Algorithms](https://bitbucket.org/lucashnegri/lna)
-* [Lunum](https://github.com/jzrake/lunum)
 
 <a name="lua-demos"></a>
 #### Demos and Scripts
@@ -725,7 +714,7 @@ on MNIST digits[DEEP LEARNING]
 * [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
 a pluggable architecture for data and image processing, which can
 be
-[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+[used for machine learning](https://github.com/zenogantner/PDL-ML).
 
 <a name="perl-ml"></a>
 ### General-Purpose Machine Learning
@@ -736,11 +725,11 @@ also [released in CPAN](https://metacpan.org/pod/AI::MXNet).
 using AWS machine learning platform from Perl.
 * [Algorithm::SVMLight](https://metacpan.org/pod/Algorithm::SVMLight),
   implementation of Support Vector Machines with SVMLight under it.
-  
+
 * Several machine learning and artificial intelligence models are
   included in the [`AI`](https://metacpan.org/search?size=20&q=AI)
   namespace. For instance, you can
-  find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes). 
+  find [Naïve Bayes](https://metacpan.org/pod/AI::NaiveBayes).
 
 <a name="perl6"></a>
 ## Perl 6
@@ -754,7 +743,7 @@ using AWS machine learning platform from Perl.
 * [Perl Data Language](https://metacpan.org/pod/Paws::MachineLearning),
 a pluggable architecture for data and image processing, which can
 be
-[used for machine learning](https://github.com/zenogantner/PDL-ML). 
+[used for machine learning](https://github.com/zenogantner/PDL-ML).
 
 ### General-Purpose Machine Learning
 
@@ -795,7 +784,6 @@ be
 * [jieba](https://github.com/fxsjy/jieba#jieba-1) - Chinese Words Segmentation Utilities.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [spammy](https://github.com/prodicus/spammy) - A library for email Spam filtering built on top of nltk
-* [loso](https://github.com/victorlin/loso) - Another Chinese segmentation library.
 * [genius](https://github.com/duanhongyi/genius) - A Chinese segment base on Conditional Random Field.
 * [KoNLPy](http://konlpy.org) - A Python package for Korean natural language processing.
 * [nut](https://github.com/pprett/nut) - Natural language Understanding Toolkit
@@ -816,11 +804,11 @@ be
 * [stanford-corenlp-python](https://github.com/dasmith/stanford-corenlp-python) - Python wrapper for [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 * [CLTK](https://github.com/cltk/cltk) - The Classical Language Toolkit
 * [rasa_nlu](https://github.com/golastmile/rasa_nlu) - turn natural language into structured data
-* [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector 
+* [yase](https://github.com/PPACI/yase) - Transcode sentence (or other sequence) to list of word vector
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
-* [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, LightGBM, and soon, deep learning. 
+* [auto_ml](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, LightGBM, and soon, deep learning.
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - Book/iPython notebooks on Probabilistic Programming in Python
@@ -1028,8 +1016,6 @@ be
 #### General-Purpose Machine Learning
 
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - Curated list of ML related resources for Ruby
-* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby
-* [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby)
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout) - JRuby Mahout is a gem that unleashes the power of Apache Mahout in the world of JRuby.
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - A general classifier module to allow Bayesian and other types of classifications.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines
@@ -1046,7 +1032,6 @@ be
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean) - A data management tool for humans
 * [Bioruby](https://github.com/bioruby/bioruby)
-* [Arel](https://github.com/nkallen/arel)
 
 <a name="ruby-misc"></a>
 #### Misc
